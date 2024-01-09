@@ -58,5 +58,5 @@ jobs:
         with:
           app-name: 'trekkwire-server'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0A321DACF35C43959002A68E36134D33 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4BC611D095B4910A64866136AE9E052 }}
           package: .
